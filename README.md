@@ -1,3 +1,3 @@
-![](https://i.imgur.com/7MQhXwW.jpg)
+![](https://github.com/tekinho022/geek.inf/blob/main/p.jpg?raw=true)
 
 
