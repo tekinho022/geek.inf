@@ -6,7 +6,7 @@
     
 </head>
 <body>
-    <h1>Teste <img src="https://i.imgur.com/ztKvngL.jpg" alt=""></h1>
+     <img src="https://i.imgur.com/ztKvngL.jpg" alt="">
 </body>
 </html>
 
